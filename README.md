@@ -31,6 +31,6 @@
 </div>
    
  
-  ![Snake animation](https://github.com/YuriRDev/YuriRDev/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/YuriRDev/YuriRDev/blob/output/github-contribution-grid-snake.gif)
  
 </div>
