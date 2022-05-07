@@ -28,6 +28,15 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
   
+  ##
+  ### 𝘐 𝘬𝘯𝘰𝘸, 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘴𝘶𝘱𝘦𝘳 𝘧𝘢𝘮𝘪𝘭𝘪𝘢𝘳:
+  <div style="display: inline_block">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
 ##
 <div align="center">
   <a href="https://github.com/YuriRDev">
