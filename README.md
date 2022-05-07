@@ -13,7 +13,7 @@
 :airplane: 𝘛𝘳𝘢𝘷𝘦𝘭𝘦𝘳
 
   ##
-  ### 𝘙𝘦𝘢𝘤𝘵𝘑𝘚 𝘍𝘢𝘯𝘣𝘰𝘺, 𝘣𝘶𝘵 𝘐 𝘢𝘭𝘴𝘰 𝘥𝘰:
+  ### 𝘙𝘦𝘢𝘤𝘵𝘑𝘚 𝘍𝘢𝘯𝘣𝘰𝘺, 𝘣𝘶𝘵 𝘐 𝘢𝘭𝘴𝘰 𝘮𝘢𝘴𝘵𝘦𝘳:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
