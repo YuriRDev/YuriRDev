@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/YuriRDev)
 
 
-😁 **Learning three-js** -> Bruno Simon student!
+😁 **Learning three-js** -> Bruno Simon's student!
 
 :computer: 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘥𝘦𝘷, 𝘶𝘴𝘪𝘯𝘨 𝘕𝘰𝘥𝘦𝘑𝘚, 𝘙𝘦𝘢𝘤𝘵 & 𝘙𝘦𝘢𝘤𝘵𝘕𝘢𝘵𝘪𝘷𝘦
 
