@@ -10,6 +10,8 @@
 
 :airplane: 𝘛𝘳𝘢𝘷𝘦𝘭𝘦𝘳
 
+🔗 *https://yurirdev.github.io/web-portfolio*
+
   ##
   ### 𝘙𝘦𝘢𝘤𝘵𝘑𝘚 𝘍𝘢𝘯𝘣𝘰𝘺, 𝘣𝘶𝘵 𝘐 𝘢𝘭𝘴𝘰 𝘮𝘢𝘴𝘵𝘦𝘳:
 <div style="display: inline_block"><br>
