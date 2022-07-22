@@ -13,7 +13,7 @@
 🔗 *https://yurirdev.github.io*
 
   ##
-  ### 𝘙𝘦𝘢𝘤𝘵 𝘧𝘢𝘯𝘣𝘰𝘺, 𝘣𝘶𝘵 𝘐 𝘢𝘭𝘴𝘰 𝘭𝘪𝘬𝘦
+  ### 𝘞𝘩𝘢𝘵 𝘐 𝘭𝘪𝘬𝘦 𝘢𝘯𝘥 𝘶𝘴𝘦
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
