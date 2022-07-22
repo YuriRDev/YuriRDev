@@ -29,7 +29,7 @@
 </div>
   
   ##
-  ### 𝘐 𝘬𝘯𝘰𝘸, 𝘣𝘶𝘵 𝘥𝘰𝘯'𝘵 𝘳𝘦𝘢𝘭𝘭𝘺 𝘮𝘢𝘴𝘵𝘦𝘳:
+  ### 𝘐 𝘬𝘯𝘰𝘸, 𝘣𝘶𝘵 𝘥𝘰𝘯'𝘵 𝘳𝘦𝘢𝘭𝘭𝘺 𝘶𝘴𝘦 𝘪𝘵
   <div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
