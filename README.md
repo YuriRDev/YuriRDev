@@ -44,6 +44,7 @@
   <div style="display: inline_block">
     <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg">
     <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jest/jest-plain.svg">
+    <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/YuriRDev/YuriRDev/main/ass/next.svg">
   </div>
   
   
