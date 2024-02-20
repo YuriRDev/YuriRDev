@@ -10,7 +10,6 @@
 
 :airplane: 𝘛𝘳𝘢𝘷𝘦𝘭𝘦𝘳
 
-👉 My Blog: https://blogyurirdev.vercel.app/
 
 
   ##
